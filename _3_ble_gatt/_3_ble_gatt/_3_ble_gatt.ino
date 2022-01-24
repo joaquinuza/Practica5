@@ -1,5 +1,5 @@
 /*
-    Based on Alexander Lavrushko BLEProof Peripheral ESP32
+    Based on Alexander Lavrushko, - BLEProof Peripheral ESP32
 */
 
 #include <BLEDevice.h>
